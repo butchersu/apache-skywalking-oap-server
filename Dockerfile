@@ -1,1 +1,1 @@
-FROM apache/skywalking-oap-server:8.9.1
+FROM skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.7.0
